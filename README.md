@@ -1,2 +1,10 @@
-# ToDo-React-App
-Todo App to add, edit, and delete todo items.
+# Todo App
+
+create, delete, and update todo items
+
+### Run
+
+- npm install
+- npm start
+
+![Home](home.png)
